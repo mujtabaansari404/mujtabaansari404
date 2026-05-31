@@ -19,7 +19,6 @@ I’m a self-learner working independently and exploring the world of Machine Le
 ![LangGraph](https://img.shields.io/badge/LangGraph-4A90E2?style=for-the-badge&logo=graphviz&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=files&logoColor=white)
 ![Agents](https://img.shields.io/badge/Agents-8A2BE2?style=for-the-badge&logo=brainly&logoColor=white)
-![Tool Calling](https://img.shields.io/badge/Tool%20Calling-00C853?style=for-the-badge&logo=tool&logoColor=white)
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
