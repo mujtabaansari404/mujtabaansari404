@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a self-learner working independently and exploring the world of Machine Learning.<br>Currently learning and experimenting on Kaggle, building hands-on projects with ML & Deep Learning.<br>I believe in learning by doing and improving one model at a time 🚀<br><br>Fun fact: I upload ML projects more consistently than most people upload selfies 😄
+I’m a self-learner working independently and exploring the world of Machine Learning. etc
 
 
 ## 🌐 Socials:
